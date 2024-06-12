@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-beijing.aliyuncs.com/llyj/alpine:20240606
+mysql:5.7 registry.cn-beijing.aliyuncs.com/llyj/mysql:5.7
