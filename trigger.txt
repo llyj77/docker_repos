@@ -1,1 +1,1 @@
-jre:1.8.0 registry.cn-beijing.aliyuncs.com/llyj/jre:1.8.0
+centos:7 registry.cn-beijing.aliyuncs.com/llyj/centos:7
