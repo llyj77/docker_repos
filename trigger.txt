@@ -1,1 +1,1 @@
-mysql:5.7 registry.cn-beijing.aliyuncs.com/llyj/mysql:5.7
+redis:6.2.7 registry.cn-beijing.aliyuncs.com/llyj/redis:6.2.7
