@@ -1,1 +1,1 @@
-jre:1.8.0_211 registry.cn-beijing.aliyuncs.com/llyj/jre:1.8.0_211
+jre:1.8.0 registry.cn-beijing.aliyuncs.com/llyj/jre:1.8.0
