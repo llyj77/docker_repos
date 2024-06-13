@@ -1,1 +1,1 @@
-jre:8u211-data registry.cn-beijing.aliyuncs.com/llyj/jre:8u211-data
+jre:1.8.0_211 registry.cn-beijing.aliyuncs.com/llyj/jre:1.8.0_211
