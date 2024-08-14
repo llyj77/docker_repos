@@ -1,1 +1,1 @@
-chromedp/headless-shel:latest registry.cn-beijing.aliyuncs.com/llyj/chromedp/headless-shel:latest
+chromedp/headless-shell:latest registry.cn-beijing.aliyuncs.com/llyj/chromedp/headless-shell:latest
