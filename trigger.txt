@@ -1,1 +1,1 @@
- chromedp:lastest registry.cn-beijing.aliyuncs.com/llyj/chromedp:lastest
+ chromedp:latest registry.cn-beijing.aliyuncs.com/llyj/chromedp:latest
