@@ -1,1 +1,1 @@
-nginx:1.24.0-alpine registry.cn-beijing.aliyuncs.com/llyj/nginx:1.24.0-alpine
+ chromedp:lastest registry.cn-beijing.aliyuncs.com/llyj/chromedp:lastest
