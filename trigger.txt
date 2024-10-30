@@ -1,1 +1,1 @@
-openmetadata/db:1.4.3 registry.cn-beijing.aliyuncs.com/llyj/db:1.4.3
+docker.elastic.co/elasticsearch/elasticsearch:8.10.2 registry.cn-beijing.aliyuncs.com/llyj/elasticsearch:8.10.2
