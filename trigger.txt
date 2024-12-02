@@ -1,1 +1,1 @@
-centos:8 registry.cn-beijing.aliyuncs.com/llyj/centos:8
+metabase/metabase:v0.44.6 registry.cn-beijing.aliyuncs.com/llyj/metabase/metabase:v0.44.6
