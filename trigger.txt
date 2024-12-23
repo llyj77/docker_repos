@@ -1,1 +1,1 @@
-metabase/metabase:v0.44.6 registry.cn-beijing.aliyuncs.com/llyj/metabase:v0.44.6
+sismics/docs:v1.11 registry.cn-beijing.aliyuncs.com/llyj/sismics-docs:v1.11
