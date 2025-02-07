@@ -1,1 +1,1 @@
-mongo:latest registry.cn-beijing.aliyuncs.com/llyj/mongo:latest
+n8n:latest registry.cn-beijing.aliyuncs.com/llyj/n8n:latest
