@@ -1,1 +1,1 @@
-sismics/docs:v1.11 registry.cn-beijing.aliyuncs.com/llyj/sismics-docs:v1.11
+mongo:v4.2.12 registry.cn-beijing.aliyuncs.com/llyj/mongo:v4.2.12
