@@ -1,1 +1,1 @@
-mongo:4.2 registry.cn-beijing.aliyuncs.com/llyj/mongo:4.2
+OpenHands:latest registry.cn-beijing.aliyuncs.com/llyj/OpenHands:latest
