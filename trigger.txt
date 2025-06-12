@@ -1,1 +1,1 @@
-OpenHands:latest registry.cn-beijing.aliyuncs.com/llyj/OpenHands:latest
+centos:7.9 registry.cn-beijing.aliyuncs.com/llyj/centos:7.9
