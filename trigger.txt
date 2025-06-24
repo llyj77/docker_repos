@@ -1,1 +1,1 @@
-centos:7 registry.cn-beijing.aliyuncs.com/llyj/centos:7
+etcd:latest registry.cn-beijing.aliyuncs.com/llyj/etcd:latest
