@@ -1,1 +1,1 @@
-Superset:latest registry.cn-beijing.aliyuncs.com/llyj/Superset:latest
+superset:latest registry.cn-beijing.aliyuncs.com/llyj/superset:latest
