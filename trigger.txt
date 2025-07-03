@@ -1,1 +1,1 @@
-node:20-bookworm-slim registry.cn-beijing.aliyuncs.com/llyj/node:20-bookworm-slim
+python:3.11.13-slim-bookworm registry.cn-beijing.aliyuncs.com/llyj/python:3.11.13-slim-bookworm
