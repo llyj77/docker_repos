@@ -1,1 +1,1 @@
-python:3.11.13-slim-bookworm registry.cn-beijing.aliyuncs.com/llyj/python:3.11.13-slim-bookworm
+apache/superset-cache:3.10-slim-bookworm registry.cn-beijing.aliyuncs.com/llyj/superset-cache:3.10-slim-bookworm
