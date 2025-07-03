@@ -1,1 +1,1 @@
-redis:7 registry.cn-beijing.aliyuncs.com/llyj/redis:7
+node:16-alpine registry.cn-beijing.aliyuncs.com/llyj/node:16-alpine
