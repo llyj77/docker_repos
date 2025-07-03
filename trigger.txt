@@ -1,1 +1,1 @@
-apache/superset:latest registry.cn-beijing.aliyuncs.com/llyj/superset:latest
+postgres:16 registry.cn-beijing.aliyuncs.com/llyj/postgres:16
