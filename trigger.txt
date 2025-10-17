@@ -1,1 +1,1 @@
-chrislusf/seaweedfs:latest registry.cn-beijing.aliyuncs.com/llyj/seaweedfs:latest
+chrislusf/seaweedfs-exporter:latest registry.cn-beijing.aliyuncs.com/llyj/seaweedfs-exporter:latest
