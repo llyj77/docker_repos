@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-beijing.aliyuncs.com/llyj/postgres:15-alpine
+metabase/metabase:v1.51.4 registry.cn-beijing.aliyuncs.com/llyj/metabase:v1.51.4
