@@ -1,1 +1,1 @@
-mmmz/trwebocr:latest registry.cn-beijing.aliyuncs.com/llyj/trwebocr:latest
+postgres:15-alpine registry.cn-beijing.aliyuncs.com/llyj/postgres:15-alpine
