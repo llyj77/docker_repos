@@ -1,1 +1,1 @@
-metabase/metabase:1.49.10 registry.cn-beijing.aliyuncs.com/llyj/metabase:1.49.10
+metabase/metabase:v1.49.10 registry.cn-beijing.aliyuncs.com/llyj/metabase:v1.49.10
