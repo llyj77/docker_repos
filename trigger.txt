@@ -1,1 +1,1 @@
-metabase/metabase:v1.40 registry.cn-beijing.aliyuncs.com/llyj/metabase:v1.40
+metabase/metabase:v1.40.0 registry.cn-beijing.aliyuncs.com/llyj/metabase:v1.40.0
