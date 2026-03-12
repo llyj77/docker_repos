@@ -1,1 +1,1 @@
-dataease/sqlbot:latest registry.cn-beijing.aliyuncs.com/llyj/sqlbot:latest
+prom/alertmanager:v0.27.0 registry.cn-beijing.aliyuncs.com/llyj/alertmanager:v0.27.0
