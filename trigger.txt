@@ -1,1 +1,1 @@
-flashcatcloud/categraf:latest registry.cn-beijing.aliyuncs.com/llyj/categraf:latest
+victoriametrics/victoria-metrics:v1.79.12 registry.cn-beijing.aliyuncs.com/llyj/victoria-metrics:v1.79.12
