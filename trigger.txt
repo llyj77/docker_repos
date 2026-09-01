@@ -1,1 +1,1 @@
-apache/iotdb:2.0.10-datanode registry.cn-beijing.aliyuncs.com/llyj/iotdb:2.0.10-datanode
+apache/iotdb:2.0.10-confignode registry.cn-beijing.aliyuncs.com/llyj/iotdb:2.0.10-confignode
